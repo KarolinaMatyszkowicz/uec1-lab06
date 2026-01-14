@@ -1,0 +1,8 @@
+sv work "../../rtl/counter.sv" 
+sv work "../../rtl/ring_counter.sv" 
+sv work "../../rtl/sseg/hex2sseg.sv"
+sv work "../../rtl/sseg/sseg_mux.sv"
+sv work "../../rtl/top.sv"
+sv work "../../rtl/sseg.sv" 
+sv work "../../fpga/rtl/top_basys3.sv" 
+sv work "top_basys3_test.sv"

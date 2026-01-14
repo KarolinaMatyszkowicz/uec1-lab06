@@ -1,0 +1,2 @@
+sv work ../../rtl/counter.sv counter_test.sv
+sv work ../../rtl/ring_counter.sv counter_test.sv
