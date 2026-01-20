@@ -2,7 +2,7 @@ module top_basys3_test;
     logic clk;
     logic btnC;
     logic [15:0] sw;
-    wire [6:0] sseg;
+    wire [6:0] seg;
     wire [3:0] an;
 
 top_basys3 u_dut (
@@ -10,7 +10,7 @@ top_basys3 u_dut (
     .btnC,
     .sw,
     .an(an),
-    .sseg(sseg)
+    .seg(seg)
 
 );
 
